@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gallantry all-a-mode: or, The bully to the life. Here fops &amp; boistrous bully-rocks are shown, they pass their golden hours away in pleasure, the gallant feats they practice in the town; detest those doting fools that live by measure. To a new play-house tune: viz. Let the traytors plot on.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23379</idno><idno type="EEBO-CITATION">99884625</idno>
+  <idno type="VID">192655</idno>
+  <idno type="EEBO-PROQUEST">2248524149</idno>
+  
+            <idno type="STC">Wing G175</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[92]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[93]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.10[16]</idno>
+            <idno type="STC">ESTC R216075</idno>
+            <idno type="PROQUEST">ocm99884625</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884625e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23379)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192655)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:1[56]; A6:2[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gallantry all-a-mode: or, The bully to the life. Here fops &amp; boistrous bully-rocks are shown, they pass their golden hours away in pleasure, the gallant feats they practice in the town; detest those doting fools that live by measure. To a new play-house tune: viz. Let the traytors plot on.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, J. Wright, and J. Clarke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1674 and 1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing CD-ROM.</note>
+                  <note>Verse: "Let the cinick zealots,".</note>
+                  <note>Copies cut and mounted.</note>
+                  <note>Item at A6:2 imperfect: stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:192655:1"/>
+            <head>
+               <hi>Gallantry All-a-Mode: Or,</hi> The Bully to the Life.</head>
+            <argument>
+               <p>Here Fops &amp; Boistrous Bully-Rocks are shown, They pass their Golden hours away in pleasure, The Gallant Feats they Practice in the Town; Detest those doting Fools that live by measure. </p>
+            </argument>
+            <opener>
+               <hi>To a New Play-house Tune:</hi> Viz. Let the Traytors Plot on.</opener>
+            <p>
+               <figure>
+                  <figDesc>woodcut of four men and a woman sitting at a table in an inn</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>woodcut of cupid with arrow and bow</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>LEt the Cinick Zealots,</l>
+               <l>Impose on Dull Sots,</l>
+               <l>Rub Brethrens Gumbs with false Corals,</l>
+               <l>Let the Dull Bearded Crowd,</l>
+               <l>Insult and grow proud,</l>
+               <l>And Preach up their Wheedling Morals:</l>
+               <l>Let the Grave Block-heads sit,</l>
+               <l>Muster up all their Wit,</l>
+               <l>To Poach on the Sniveling Sister;</l>
+               <l>Whilst that Stout Hectors we</l>
+               <l>Do court, the jolly she</l>
+               <l>That with fiery sparkling Carbuncle do's glister.</l>
+               <l>
+                  <hi>Cho. <hi>Let Bumpers go round,</hi>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Let Bumpers go round,</hi>
+               </l>
+               <l>
+                  <hi>Whilst thus double armed we stand to our ground,</hi>
+               </l>
+               <l>
+                  <hi>And the dull Rogue that dare,</hi>
+               </l>
+               <l>
+                  <hi>Bawk his Liquor and spare;</hi>
+               </l>
+               <l>
+                  <hi>Kick him out,</hi>
+               </l>
+               <l>
+                  <hi>Kick him out,</hi>
+               </l>
+               <l>
+                  <hi>Whilst Bumpers go round.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Let the Rascals declaim,</l>
+               <l>Shew the gay punks their shame</l>
+               <l>Cry down their Paint &amp; their patch-boxes</l>
+               <l>Let the Block-heads repine</l>
+               <l>At our brisk sparkling Wine,</l>
+               <l>And covet our Goddess like Doxes:</l>
+               <l>Let each whining dull Rogue,</l>
+               <l>Fawn, Decoy, and Cologue,</l>
+               <l>And wish to depose his old Gown Sir,</l>
+               <l>Quit all Orders, turn Bully,</l>
+               <l>And at length prove a Cully,</l>
+               <l>And like Bullyrocks to go roar about town Sir:</l>
+               <l>
+                  <hi>Cho. <hi>Let Bumpers go round,</hi>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Let Bumpers go round,</hi>
+               </l>
+               <l>
+                  <hi>Whilst thus double armed we stand to our ground</hi>
+               </l>
+               <l>
+                  <hi>And the dull Rogue that dare,</hi>
+               </l>
+               <l>
+                  <hi>Bawk his Liquor and spare,</hi>
+               </l>
+               <l>
+                  <hi>Kick him out,</hi>
+               </l>
+               <l>
+                  <hi>Kick him out</hi>
+               </l>
+               <l>
+                  <hi>Whilst Bumpers go round,</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:192655:1"/>
+               <l>WHilst like Rockets we rove,</l>
+               <l>We do immitate <hi>Jove,</hi>
+               </l>
+               <l>Both handsome and ugly we plunder,</l>
+               <l>With drawn trusty Steel,</l>
+               <l>The streets we do Reel.</l>
+               <l>Like Cannons with shouts we do thunder:</l>
+               <l>Our sole joys are Kisses.</l>
+               <l>Bestow'd by brisk Misses,</l>
+               <l>We Lavish and wallow in Pleasure,</l>
+               <l>We detest the dull Fool.</l>
+               <l>That does moap like an Owl,</l>
+               <l>whose poor prisoner soul is confined by measure:</l>
+               <l>
+                  <hi>Ch. <hi>Let Bumpers,</hi> &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>We scorn the fools track,</l>
+               <l>Whilst we Revel in Sack,</l>
+               <l>And in natures full plenty do lavish,</l>
+               <l>Our labouring Souls,</l>
+               <l>We refresh with full Bowls,</l>
+               <l>Whilst other poor Mortals live slavish</l>
+               <l>All the night we do play,</l>
+               <l>And sleep all the day,</l>
+               <l>And we know no end of our Horning.</l>
+               <l>Our full Bowls do weep,</l>
+               <l>Every each Star asleep,</l>
+               <l>And with drwzy bowls we salute the dull Morning:</l>
+               <l>
+                  <hi>Cho. <hi>Let Bumpers,</hi> &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Bright jewels we have,</l>
+               <l>Then why should we crave</l>
+               <l>The treasuries of the <hi>Magull,</hi> Boys,</l>
+               <l>Our Noses do swell,</l>
+               <l>With pure Carbuncle,</l>
+               <l>Then why do we sit all so dull Boys?</l>
+               <l>If the Moon hide her head,</l>
+               <l>Our Noses so Red,</l>
+               <l>Directs our light heels as we stagger,</l>
+               <l>And whilst that we're Drunk</l>
+               <l>With a brisk bouncing Punk,</l>
+               <l>Like the young jolly God we look big &amp; do swagger</l>
+               <l>
+                  <hi>Cho. <hi>Let Bumpers go round,</hi>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Let Bumpers go round,</hi>
+               </l>
+               <l>
+                  <hi>Whilst thus double armed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re stand to our ground</hi>
+               </l>
+               <l>
+                  <hi>And the dull Rog<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e that dare</hi>
+               </l>
+               <l>
+                  <hi>Bawk his Liquor and spare,</hi>
+               </l>
+               <l>
+                  <hi>Kick him out,</hi>
+               </l>
+               <l>
+                  <hi>Kick him out,</hi>
+               </l>
+               <l>
+                  <hi>Whilst Bumpers go round.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To the Play-house we reel,</l>
+               <l>Then about we do wheel.</l>
+               <l>And All-a-amode of the brisk Monsieur.</l>
+               <l>In the midst of the Pit,</l>
+               <l>Like our selves we do sit,</l>
+               <l>That is right Bully-rocks of the town sir</l>
+               <l>We cringe and then shew,</l>
+               <l>Shapes <hi>Proteus</hi> ne'r knew,</l>
+               <l>And with Volly shots we do thunder:</l>
+               <l>Glass windows in rage,</l>
+               <l>We oft do ingage,</l>
+               <l>And a piping-hot Quean we do hire to lye under.</l>
+               <l>
+                  <hi>Cho. <hi>Let Bumpers go round,</hi>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Let Bumpers go round,</hi>
+               </l>
+               <l>
+                  <hi>While thus double armed we stand to our ground</hi>
+               </l>
+               <l>
+                  <hi>And the dull Rogue that dare</hi>
+               </l>
+               <l>
+                  <hi>Bawk his Liquor and spare,</hi>
+               </l>
+               <l>
+                  <hi>Kick him out,</hi>
+               </l>
+               <l>
+                  <hi>Kick him out,</hi>
+               </l>
+               <l>
+                  <hi>Whilst Bumpers go round.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then oftimes the Watch</l>
+               <l>Vs Hectors does catch,</l>
+               <l>And nabs us in this late Ren'counter,</l>
+               <l>With Swords and with stones,</l>
+               <l>We break the Loons bones,</l>
+               <l>And so flye the Cage or the Compter:</l>
+               <l>Thus like Pyrates o'th town,</l>
+               <l>We roam up and down,</l>
+               <l>And scowre the main Sea of the City,</l>
+               <l>And he that durst beat</l>
+               <l>The late Watch in the street,</l>
+               <l>Among us Bully-rocks, is accounted for witty.</l>
+               <l>
+                  <hi>Cho. <hi>Let Bumpers go round,</hi>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Let Bumpers go round,</hi>
+               </l>
+               <l>
+                  <hi>Whilst thus double armed we stand to our ground</hi>
+               </l>
+               <l>
+                  <hi>And the dull Rogue that dare</hi>
+               </l>
+               <l>
+                  <hi>Bawk his Liquor and spare,</hi>
+               </l>
+               <l>
+                  <hi>Kick him out,</hi>
+               </l>
+               <l>
+                  <hi>Kick him out,</hi>
+               </l>
+               <l>
+                  <hi>Whilst Bumpers go round.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> F. Coles, T. Vere, J. Wright, <hi>and</hi> J. Clarke.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
